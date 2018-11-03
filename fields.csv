@@ -2358,7 +2358,7 @@ field_78533_p,fogColorBlue,0,blue component of the fog color
 field_78534_ac,rainSoundCounter,0,Rain sound counter
 field_78535_ad,fogColor2,0,Fog color 2
 field_78536_aa,lightmapUpdateNeeded,0,"Is set, updateCameraAndRender() calls updateLightmap(); set by updateTorchFlicker()"
-field_78537_ab,random,0,
+field_78537_ab,random,0,"Random in EntityRenderer"
 field_78538_z,mouseFilterDummy3,0,Mouse filter dummy 3
 field_78539_ae,fogColor1,0,Fog color 1
 field_78540_y,mouseFilterDummy2,0,Mouse filter dummy 2
